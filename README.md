@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> ليه الغياب يا ساكن في خيالي
+> طال العذاب ودمعي في الليالي
+> نار الحنين بتحرق في ضلوعي
+> ارجع يا روحي ونور لي شموعي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
